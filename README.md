@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Data Analyst / Engineer<br>MCA Graduate<br>PYTHON, SQL, POWER BI,
+Aspiring Data Engineer<br>BCA Graduate<br>PYTHON, SQL, POWER BI,
 
 
 ## 🌐 Socials:
